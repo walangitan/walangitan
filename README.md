@@ -3,7 +3,7 @@
 I'm a Full-Stack Developer working in Chicago, Illinois.
 
 #### BIO
-- 🛠️ I currently work at [Chromatic](https://github.com/chromatichq).
+- ⚡ I currently work at [Arcadia](https://github.com/ArcadiaPower).
 - 🌱 I’m learning about [cloud-powered dev environments](https://github.com/features/codespaces) and [Rust](https://www.rust-lang.org/).
 - 🌍 I'm most active in the [Drupal](https://drupal.org/u/walangitan) community.
 - 📫 Say hello on [Twitter](https://twitter.com/larrywalangitan).
